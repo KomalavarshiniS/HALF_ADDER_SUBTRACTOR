@@ -69,8 +69,10 @@ Developed by:KOMALAVARSHINI.S
 RegisterNumber:24900909
 ```
 **RTL Schematic**
+![exp3 (2)](https://github.com/user-attachments/assets/e5198ac0-2e9c-41d5-b2df-39a11ab3aebd)
 
 **Output/TIMING Waveform**
+![exp3](https://github.com/user-attachments/assets/a275d4fa-c918-4abc-a7bd-41a28bbd5679)
 
 **Result:**
 HALF ADDER AND HALF SUBTRACTER IS DESIGNED AND THE TRUTH TABLE IS VERIFIED.
