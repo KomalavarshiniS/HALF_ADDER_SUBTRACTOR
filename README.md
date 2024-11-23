@@ -21,8 +21,7 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
 Figure -01 HALF ADDER
-![image](https://github.com/user-attachments/assets/e2b7bd68-856e-4c8a-ab3b-074d3a34fc74)
-![image](https://github.com/user-attachments/assets/690835ca-9484-475a-9506-87e913633f6e)
+![image](https://github.com/user-attachments/assets/f6abf561-2d06-4754-9fe5-94a8fd03258b)
 
 **Half Subtractor**
 
@@ -30,14 +29,18 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
+![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
  
 Figure -02 HALF Subtractor
+![image](https://github.com/user-attachments/assets/bb7b1776-0ace-4ec7-9171-43b992bbcf53)
 
 **Truthtable**
-![image](https://github.com/user-attachments/assets/46ff79f7-3d09-462a-bf90-d2198ad18808)
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
+Half adder
+![image](https://github.com/user-attachments/assets/561787ef-8c8e-4cc3-8f21-707661323ce9)
+Half subtractor
+![image](https://github.com/user-attachments/assets/b9b1a380-87ae-45bd-b7bd-2349cff6c5d1)
 **Procedure**
 
 1.	Type the program in Quartus software.
